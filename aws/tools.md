@@ -1,4 +1,5 @@
-AWS Privileges Enumerator
+### AWS Privileges Enumerator
+``` bash
 $ go install -v github.com/shabarkin/aws-enumerator@latest
 Example:
 ┌──(aliaksxssv㉿kali)-[~/go/bin]
@@ -24,7 +25,10 @@ Message:  Successful CODECOMMIT: 1 / 2
 Message:  Successful CLOUDSEARCH: 0 / 2
 Message:  Successful DATAPIPELINE: 0 / 1
 Message:  Successful CODEDEPLOY: 0 / 8
+```
 
-
-AWS S3 Account ID Search
+### AWS S3 Account ID Search
 python3 -m pip install s3-account-search 
+
+### AWS Crawler
+https://awseye.com/
