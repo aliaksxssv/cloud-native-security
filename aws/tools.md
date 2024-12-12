@@ -1,6 +1,8 @@
 ### AWS Privileges Enumerator
 ``` bash
 $ go install -v github.com/shabarkin/aws-enumerator@latest
+```
+``` text
 Example:
 ┌──(aliaksxssv㉿kali)-[~/go/bin]
 └─$ ./aws-enumerator enum           
