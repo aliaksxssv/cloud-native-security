@@ -30,7 +30,9 @@ Message:  Successful CODEDEPLOY: 0 / 8
 ```
 
 ### AWS S3 Account ID Search
-python3 -m pip install s3-account-search 
+``` bash
+python3 -m pip install s3-account-search
+```
 
 ### AWS Crawler
 https://awseye.com/
