@@ -1,4 +1,4 @@
-### Crack hashes
+### John the Ripper password cracker
 ``` bash
 git clone https://github.com/openwall/john -b bleeding-jumbo john
 cd john/src/
