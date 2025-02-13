@@ -1,4 +1,4 @@
-### GitHub Search
+## GitHub Search
 
 https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28#search-code
 
@@ -10,5 +10,5 @@ curl -L \
   "https://api.github.com/search/code?q=aws_access_key_id"
 ``` 
 
-## Detection
+### Detection
 - AWS Health Dashboard: Risk IAM quarantine
