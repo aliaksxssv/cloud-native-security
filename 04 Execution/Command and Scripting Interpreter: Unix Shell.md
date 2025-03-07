@@ -14,3 +14,7 @@ echo "Get evidences"
 ps aux | grep "nc\|bash"
 netstat -otnp | grep 4444
 ``` 
+
+#### Detection
+
+AWS GuardDuty Runtime Monitoring -> Execution:Runtime/ReverseShell (https://docs.aws.amazon.com/guardduty/latest/ug/findings-runtime-monitoring.html#execution-runtime-reverseshell)
